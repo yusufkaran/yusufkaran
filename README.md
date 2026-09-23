@@ -18,16 +18,6 @@ shipping indie apps at **[KaranLabs](https://karanlabs.com)** by night.
 
 ---
 
-## 👨‍💻 About
-
-- 🏦 iOS Developer at **Tera Yatırım Bankası**, building and maintaining the bank's mobile application
-- 🧪 Founder of **[KaranLabs](https://karanlabs.com)**, an independent iOS studio with 6 apps on the App Store
-- 🎓 MSc thesis: an **LLM agent based UI testing framework** for SwiftUI applications
-- ⚡ Daily drivers: Swift, SwiftUI, TypeScript, Supabase, Claude Code
-- 📫 Say hi: **contact@karanlabs.com**
-
----
-
 ## 📱 Apps I've Shipped
 
 <table>
