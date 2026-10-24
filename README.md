@@ -18,8 +18,6 @@ shipping indie apps at **[KaranLabs](https://karanlabs.com)** by night.
 
 ---
 
-## 📱 Apps I've Shipped
-
 <table>
   <tr>
     <td align="center" width="33%">
